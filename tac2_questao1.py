@@ -19,4 +19,5 @@ valorDiaria= diaria * 40.00
 
 valorTotal = valorArmazenamento + valorDiaria
 
-print(valorTotal)
+print(f'gastara no total: {valorTotal} reais')
+
